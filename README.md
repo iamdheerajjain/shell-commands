@@ -39,11 +39,11 @@ Internally uses:
 
 ## 📸 Screenshots:
 
-![Grafana Screenshot](grafana/Dashboard.png)
+![op](op.png)
 ---
 
 ## 📦 Compilation
 
 ```bash
-g++ -o shell shell.cpp
-./shell
+g++ -o command command.cpp
+./command
