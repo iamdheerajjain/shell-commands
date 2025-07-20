@@ -37,6 +37,11 @@ Internally uses:
 - `waitpid()` to sync with parent
 - `getcwd()`, `chdir()`, `chmod()`, `mkdir()`, `remove()`, `rename()`, and more from `unistd.h`, `sys/stat.h`, etc.
 
+## 📸 Screenshots:
+
+![Grafana Screenshot](grafana/Dashboard.png)
+---
+
 ## 📦 Compilation
 
 ```bash
